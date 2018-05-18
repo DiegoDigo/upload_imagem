@@ -36,3 +36,12 @@ Exemplo de configuraçao do arquivo ***config.ini***
 	port = 9999
 	password = senha
  
+ 
+ Como instalar
+ -------
+  
+ <ul>
+	<li>Criar uma virtualenv com *** pip install virtualenv ***</li>
+	<li>inciar a virtualenv *** virtualenv --no-site-packages pastavirtualenv/scripts/activate ***</li>
+	<li>instalar dependencias na maquina virtual *** pip install -r requerments.txt  ***</li>	
+ </ul>
