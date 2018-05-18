@@ -9,23 +9,22 @@ Automatização de upload de imagem
 	 --------
      
     [CONFIG]
-	revenda = 6461
+	revenda = licença
 	upload = false
-	path_image = C:\Users\diego.delmiro\Pictures\Allize
+	path_image = path_image
 	path_image_formatted =
 
 
 	[COULDINARY]
-	cloud_name = dutxxwomw
-	api_key = 224363459748192
-	api_secret = 9hlO5CJ8hx5LupDQ10UZM5YGe-4
-
+	cloud_name = user
+	api_key = apikey
+	api_secret = secret
 
 
 	[POSTGRES]
 	dbname = portal_vendas_6461
-	user = postgres
+	user = user
 	host = localhost
-	port = 5432
-	password = control
+	port = 9999
+	password = senha
  
