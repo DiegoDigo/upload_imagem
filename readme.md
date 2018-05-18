@@ -5,8 +5,15 @@ Automatização de upload de imagem
 	faz o upload no cloudinare e atualiza as imagens dos produtos no postgre.
 </p>
 
-	 Exemplo de configuraçao do arquivo ***config.ini***
-	 --------
+
+<p>
+   <h5>Dependencia do Runtime c Windows</h5>   
+   https://support.microsoft.com/pt-br/help/2999226/update-for-universal-c-runtime-in-windows
+</p>
+
+
+Exemplo de configuraçao do arquivo ***config.ini***
+--------
      
     [CONFIG]
 	revenda = licença
