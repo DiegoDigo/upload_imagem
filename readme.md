@@ -7,7 +7,8 @@ Automatização de upload de imagem
 
 
 <p>
-   <h5>Dependencia do Runtime c Windows</h5>   
+   <h3>Dependencia do Runtime c Windows</h3>
+   <h5>Para Windows Server 2008 R2</h5>
    https://support.microsoft.com/pt-br/help/2999226/update-for-universal-c-runtime-in-windows
 </p>
 
